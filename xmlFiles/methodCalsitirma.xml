@@ -1,0 +1,22 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="method calistirma">
+<!--    <test name="method calistirma1">
+        <classes>
+            <class name="tests.day16_pageObjectModel.C02_XmlFiles">
+                <methods>
+                    &lt;!&ndash; sadece include olarak belirtilen method'lari calistirir&ndash;&gt;
+                    <include name="test01"></include>
+                    <include name="test02"></include>
+                    <include name="test05"></include>
+                </methods>
+            </class>
+            <class name="tests.day16_pageObjectModel.C03_XmlFiles">
+                <methods>
+                    &lt;!&ndash;exclude olarak belirtilen method'larin disindaki tum method'lari calistirir &ndash;&gt;
+                    <exclude name="test06"></exclude>
+                    <exclude name="test08"></exclude>
+                </methods>
+            </class>
+        </classes>
+    </test>-->
+</suite>
